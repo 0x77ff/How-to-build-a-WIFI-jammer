@@ -9,10 +9,10 @@ Please remember that using a jammer is usually illegal and can land you in jail.
 
 ## Project Overview
 This project is based on Arduino nano and utilizes the NRF24L01 module for easy construction. It is designed to be both cheap and effective.\
-It can also be easily scaled up by someone with Arduino knowledge.\
+It can jam Wi-Fi within up to 10-15 metres away!\
 The NRF24L01 is used as our jammer module and the Arduino nano is used to interface with it.\
 You can expect range of about 5m-10m+ depending on which nrf24l01 module you choose.\
-This is a very simple project that anyone can build, so lets get to building it!
+This is a very simple and beginner friendly project that anyone can build, so lets get to building it!
 
 ## Which module for you
 Now you may think that there is only one NRF24L01 module, but you would be wrong.\
