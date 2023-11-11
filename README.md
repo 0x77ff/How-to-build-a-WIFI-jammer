@@ -35,7 +35,7 @@ You first need your NRF module, an arduino nano, and a breadboard.\
 **Schematics**:\
 ![image](https://github.com/0x77ff/How-to-build-a-WIFI-jammer/assets/116833814/6cf92e4d-8364-4592-8bcb-710bf49d1fbc)
 \
-Once wired, upload *jammer.ino* to the Arduino.\
+Once wired, upload [jammer.ino](https://github.com/0x77ff/How-to-build-a-WIFI-jammer/blob/main/jammer.ino) to the Arduino.\
 You will first need to have installed the RF24 arduino library.\
 \
 Congratulations, you now have a made your WI-FI jammer!
