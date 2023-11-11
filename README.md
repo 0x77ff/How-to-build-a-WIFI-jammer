@@ -27,8 +27,18 @@ The basic NRF24L01 module is not the most powerful, with only 1mw of transmit po
 **Purchase links**:\
 \
 • [E01-ML01DP5](www.aliexpress.com/item/32783191387.html)\
-• [E01-2G4M27D](https://www.aliexpress.com/item/1005003290204272.html)
+• [E01-2G4M27D](https://www.aliexpress.com/item/1005003290204272.html)\
+• [Arduino Nano](https://www.aliexpress.com/item/1005006128051481.html)
 
 ## Build instructions
-
-
+You first need your NRF module, an arduino nano, and a breadboard.\
+**Schematics**:\
+![image](https://github.com/0x77ff/How-to-build-a-WIFI-jammer/assets/116833814/6cf92e4d-8364-4592-8bcb-710bf49d1fbc)
+\
+Once wired, upload *jammer.ino* to the Arduino.\
+You will first need to have installed the RF24 arduino library.\
+\
+Congratulations, you now have a made your WI-FI jammer!
+```
+Please remember that using a WI-FI jammer is illegal in an unauthorized space, so use responsibly!
+```
