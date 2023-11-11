@@ -3,7 +3,7 @@ Here is a guide with the best info on building a DIY, but powerful, wifi jammer,
 Please remember that using a jammer is usually illegal and can land you in jail.
 ### Table of content
 \
-• [Project Overview](https://github.com/0x77ff/How-to-build-a-WIFI-jammer/blob/main/README.md#project-overview)
+• [Project Overview](https://github.com/0x77ff/How-to-build-a-WIFI-jammer/blob/main/README.md#project-overview)\
 • Which module for you\
 • Build instructions\
 
