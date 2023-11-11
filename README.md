@@ -4,8 +4,8 @@ Please remember that using a jammer is usually illegal and can land you in jail.
 ### Table of content
 \
 • [Project Overview](https://github.com/0x77ff/How-to-build-a-WIFI-jammer/blob/main/README.md#project-overview)\
-• Which module for you\
-• Build instructions
+• [Which module for you](https://github.com/0x77ff/How-to-build-a-WIFI-jammer/blob/main/README.md#which-module-for-you)\
+• [Build instructions](https://github.com/0x77ff/How-to-build-a-WIFI-jammer/blob/main/README.md#build-instructions)
 
 ## Project Overview
 This project is based on Arduino nano and utilizes the NRF24L01 module for easy construction. It is designed to be both cheap and effective.\
